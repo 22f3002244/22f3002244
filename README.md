@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Vedant
+# Hi there! I'm Vedant
 
 AI & Data Science Engineer with expertise in Cybersecurity, Blockchain, IoT, and Machine Learning. Passionate about building intelligent, secure, & data-driven solutions while exploring the potential of emerging technologies.
 
@@ -43,16 +43,6 @@ Full-stack application built with Vue.js 3 and Flask backend, featuring role-bas
 
 ### [Automated Drug Dispenser](https://github.com/22f3002244/Drug-Dispenser)
 Smart medication dispensing system with timed alerts and automated dosage delivery using sensors and microcontrollers.
-
----
-
-## 📊 GitHub Stats
-
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=22f3002244&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22f3002244&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=22f3002244&theme=tokyonight&hide_border=true)
 
 ---
 
