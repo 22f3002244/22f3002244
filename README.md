@@ -35,22 +35,24 @@ Driven by curiosity to turn data into intelligence and ideas into innovation.
 
 ## Featured Projects
 
-### 🤖 [Dash AI]([https://github.com/22f3002244](https://github.com/22f3002244/DashAI))
+### [Dash AI](https://github.com/22f3002244/DashAI)
 AI-powered conversational dashboard for IoT device management, monitoring, and analytics with intuitive control and insights.
 
-### 🏥 [Hospital Management System]([https://github.com/22f3002244](https://github.com/22f3002244/Hospital-Management-System))
+### [Hospital Management System](https://github.com/22f3002244/Hospital-Management-System)
 Full-stack application built with Vue.js 3 and Flask backend, featuring role-based dashboards for admins, doctors, and patients with automated notifications.
 
-### 💊 [Automated Drug Dispenser]([https://github.com/22f3002244](https://github.com/22f3002244/Drug-Dispenser))
+### [Automated Drug Dispenser](https://github.com/22f3002244/Drug-Dispenser)
 Smart medication dispensing system with timed alerts and automated dosage delivery using sensors and microcontrollers.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=22f3002244&show_icons=true&theme=radical)
+![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=22f3002244&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22f3002244&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22f3002244&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=22f3002244&theme=tokyonight&hide_border=true)
 
 ---
 
