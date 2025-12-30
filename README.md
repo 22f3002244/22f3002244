@@ -35,6 +35,9 @@ Driven by curiosity to turn data into intelligence and ideas into innovation.
 
 ## Featured Projects
 
+### [Financial Portfolio Analytics] (https://github.com/22f3002244/finance-analysis.git)
+Python-based MPT portfolio optimization and risk analytics platform for Indian equities with an interactive Streamlit dashboard.
+
 ### [Dash AI](https://github.com/22f3002244/DashAI)
 AI-powered conversational dashboard for IoT device management, monitoring, and analytics with intuitive control and insights.
 
