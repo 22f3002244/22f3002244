@@ -3,7 +3,7 @@
 **Backend & AI Engineer** · Mumbai, India
 
 Building production AI systems, edge ML pipelines, and scalable backend infrastructure.  
-Currently: BE CSE @ MHSSCE + BS Data Science @ IIT Madras · Founder @ [SortMyEntries](https://github.com/22f3002244)
+Currently: BE CSE @ MHSSCE + BS Data Science @ IIT Madras · Founder @ [SortMyEntries](https://sortmyentries.in)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vxdnt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vxdnt)
 [![Email](https://img.shields.io/badge/Email-vedantkonde09@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vedantkonde09@gmail.com)
@@ -53,11 +53,11 @@ Built a Groq-powered LLM pipeline that converts raw IoT telemetry into natural-l
 
 | Project | Description | Stack |
 |---|---|---|
-| **[EdgeWrapper](https://github.com/22f3002244)** | Lightweight GNN framework for IoT intrusion detection. GraphSAGE / GCN / GAT. 94%+ accuracy on BoT-IoT & ToN-IoT. ~35% memory reduction vs standard PyTorch. | PyTorch · GNNs · Edge AI |
+| **[EdgeWrapper](https://github.com/22f3002244/IoT-Network-Analysis)** | Lightweight GNN framework for IoT intrusion detection. GraphSAGE / GCN / GAT. 94%+ accuracy on BoT-IoT & ToN-IoT. ~35% memory reduction vs standard PyTorch. | PyTorch · GNNs · Edge AI |
 | **[DashAI](https://github.com/22f3002244/DashAI)** | Generative BI platform — LLM-driven chart selection + conversational query layer over live IoT data. | Flask · LangChain · Groq · Pandas |
-| **[Redirect](https://github.com/22f3002244)** | AI code gen tool that produces REST API boilerplate from DB schemas. ~60% faster backend setup. *Google Build & Grow AI Hackathon 2.0.* | Flask · SQLAlchemy · Jinja2 |
+| **[Redirect](https://github.com/22f3002244/Redirect)** | AI code gen tool that produces REST API boilerplate from DB schemas. ~60% faster backend setup. *Google Build & Grow AI Hackathon 2.0.* | Flask · SQLAlchemy · Jinja2 |
 | **[Hospital Management System](https://github.com/22f3002244/Hospital-Management-System)** | Full-stack HMS with RBAC, async task queues (reminders, PDF gen, email), and RESTful APIs. | Flask · Vue.js · Celery · Redis · SQLite |
-| **[Smart Drug Dispenser](https://github.com/22f3002244)** | Arduino Nano IoT system with servo-controlled dispensing, real-time scheduling, and OLED display. | Arduino · C++ · Embedded Systems |
+| **[Smart Drug Dispenser](https://github.com/22f3002244/Drug-Dispenser)** | Arduino Nano IoT system with servo-controlled dispensing, real-time scheduling, and OLED display. | Arduino · C++ · Embedded Systems |
 
 ---
 
