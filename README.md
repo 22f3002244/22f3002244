@@ -8,7 +8,7 @@ Currently: BE CSE @ MHSSCE + BS Data Science @ IIT Madras · Founder @ [SortMyEn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vxdnt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vxdnt)
 [![Email](https://img.shields.io/badge/Email-vedantkonde09@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vedantkonde09@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-22f3002244-181717?style=flat&logo=github&logoColor=white)](https://github.com/22f3002244)
-
+[![Website](https://img.shields.io/badge/Website-vedantk.web.app-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://vedantk.web.app)
 ---
 
 ### Stack
